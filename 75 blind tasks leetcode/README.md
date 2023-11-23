@@ -30,10 +30,6 @@ This repository contains solutions to the LeetCode Blind 75 practice problems. T
 18. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 19. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 20. [Word Break Problem](https://leetcode.com/problems/word-break/)
-
-
-## Dynamic Programming (continued)
-
 21. [Combination Sum](https://leetcode.com/problems/combination-sum/)
 22. [House Robber](https://leetcode.com/problems/house-robber/)
 23. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
