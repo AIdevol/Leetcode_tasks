@@ -10,5 +10,5 @@ class Solution:
         if root:
             root.left,root.right=root.right,root.left
             self.invertTree(root.left)
-            self.invertTre(root.right)
+            self.invertTree(root.right)
         return root
