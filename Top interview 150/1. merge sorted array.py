@@ -11,7 +11,7 @@ class Solution:
                 v3.append(nums1[i])
                 i += 1
 
-        while i < m:
+        while i < m
             v3.append(nums1[i])
             i += 1
 
