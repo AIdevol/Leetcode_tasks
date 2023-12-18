@@ -26,6 +26,10 @@ Explore a curated list of must-do problems on LeetCode across various topics. Th
 
 5. **Review and Optimize:** After solving a problem, review the solution and seek optimizations. Understand different approaches and choose the most efficient one.
 
+## LeetCode Practice Links
+
+1. [LeetCode Practice Problems](https://leetcode.com/problemset/all/)
+
 ## Additional Resources
 
 Explore additional resources on LeetCode:
