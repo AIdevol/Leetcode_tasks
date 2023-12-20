@@ -34,6 +34,5 @@ Welcome to the "LeetCode Tasks" repository! This collection is a curated set of 
 Contributions are welcome! If you have a new solution, an improvement to an existing one, or want to add a new problem, please follow the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 Happy coding and best of luck with your LeetCode journey!
-\
 
 ---
