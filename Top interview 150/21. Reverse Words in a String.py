@@ -4,4 +4,4 @@ class Solution:
         words = s.split()
         words = words[::-1]
         reversed_string = ' '.join(words)
-        return reversed_string
+        return reversed_strin
