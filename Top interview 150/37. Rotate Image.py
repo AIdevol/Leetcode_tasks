@@ -18,5 +18,5 @@ class Solution:
 
     def rotate(self, matrix):
         # Transpose and then reverse
-        self.transpose(matrix
+        self.transpose(matrix)
         self.reverse(matrix)
