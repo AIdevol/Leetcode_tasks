@@ -23,6 +23,6 @@ class Solution:
       matrix[0] = [0] * n
 
     # Fill 0s for the 1st col if needed
-    if shouldFillFirstCol:
+    if shouldFillFirstCol
       for row in matrix:
         row[0] = 0
