@@ -6,4 +6,4 @@ class Solution:
             complement = target - num
             if complement in num_indices:
                 return [num_indices[complement], i]
-            num_indices[num] = i
+            num_indices[num] = 
