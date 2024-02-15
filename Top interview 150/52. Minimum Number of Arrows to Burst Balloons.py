@@ -7,4 +7,4 @@ class Solution:
             if not points[i][0]<=arrow<=points[i][1]:
                 arrow = points[i][0]
                 n_arrow += 1
-        return n_arro
+        return n_arrow
