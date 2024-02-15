@@ -12,4 +12,4 @@ class Solution:
             else:
                 mergedIntervals.append(currentInterval)
                 mergedIntervalIndex += 1
-        return mergedInterval
+        return mergedIntervals
