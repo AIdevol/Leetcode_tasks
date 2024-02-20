@@ -8,3 +8,4 @@ class Solution:
                 arrow = points[i][0]
                 n_arrow += 1
         return n_arrow
+
