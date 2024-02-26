@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the README file for your LeetCode Tasks repository with added interactivity, including images and concepts:
-
----
-
 # LeetCode Tasks
 
 Welcome to the "LeetCode Tasks" repository! This collection is a curated set of solutions to various LeetCode problems, organized for easy reference and learning. Whether you are a beginner aiming to enhance your coding skills or an experienced developer preparing for technical interviews, this repository is designed to assist you in mastering algorithmic problem-solving.
@@ -38,4 +34,4 @@ Happy coding and best of luck with your LeetCode journey!
 
 ---
 
-**If you like this project please consider giving it a star 
+** If you like this project please consider giving it a star 
