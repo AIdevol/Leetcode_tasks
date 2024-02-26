@@ -38,4 +38,4 @@ Happy coding and best of luck with your LeetCode journey!
 
 ---
 
-Feel free to enhance it further with additional sections or customize it according to your preferences!
+**If you like this project please consider giving it a star 
