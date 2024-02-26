@@ -34,4 +34,4 @@ Happy coding and best of luck with your LeetCode journey!
 
 ---
 
-** If you like this project please consider giving it a star 
+If you like this project please consider giving it a star    :star:
