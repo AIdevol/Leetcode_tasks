@@ -22,7 +22,7 @@ Welcome to the "LeetCode Tasks" repository! This collection is a curated set of 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/leetcode_tasks.git
+    git clone https://github.com/AIdevol/Leetcode_tasks.git
     ```
 
 2. Navigate to the specific category or problem you are interested in.
