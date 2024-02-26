@@ -2,7 +2,7 @@
 
 Welcome to your interview preparation journey! This simple README provides a quick overview of the resources and steps to help you excel in your technical interviews.
 
-- [Interview Preparation](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
+[Interview Preparation](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
 
 ## LeetCode Problems
 
