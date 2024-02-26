@@ -1,6 +1,8 @@
 # Interview Preparation Readme
 
-Welcome to your interview preparation journey! This simple readme provides a quick overview of the resources and steps to help you excel in your technical interviews.
+Welcome to your interview preparation journey! This simple README provides a quick overview of the resources and steps to help you excel in your technical interviews.
+
+![Interview Preparation](https://i.imgur.com/7q3gG3o.jpg)
 
 ## LeetCode Problems
 
@@ -35,10 +37,11 @@ Explore a curated list of must-do problems on LeetCode across various topics. Th
 Explore additional resources on LeetCode:
 - [Help Center](https://leetcode.com/help/)
 - [Jobs](https://leetcode.com/jobs/)
-- [Bug Bounty](https://leetcode.com/bug-bounty/)
 - [Assessment](https://leetcode.com/assessment/)
 - [Students](https://leetcode.com/students/)
 
 ## Good Luck!
 
-Happy coding and best of luck with your interview preparation! Remember, consistent practice and a positive mindset will lead to success.
+Happy coding and best of luck with your interview preparation!
+
+---
