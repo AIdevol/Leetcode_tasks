@@ -2,7 +2,7 @@
 
 Welcome to your interview preparation journey! This simple README provides a quick overview of the resources and steps to help you excel in your technical interviews.
 
-![Interview Preparation](https://i.imgur.com/7q3gG3o.jpg)
+![Interview Preparation](https://blog.devgenius.io/preparing-dsa-for-placements-step-by-step-guide-part-1-of-2-b372a4d9b416)
 
 ## LeetCode Problems
 
