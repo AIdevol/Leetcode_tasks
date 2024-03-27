@@ -12,4 +12,4 @@ class Solution:
             current.next = prev
             prev = current
             current = next_node
-        return pre
+        return prev
