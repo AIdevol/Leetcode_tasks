@@ -16,5 +16,5 @@ class Solution:
             else:
                 return False
         
-        return Tru
+        return True
     
