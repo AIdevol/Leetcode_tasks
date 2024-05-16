@@ -41,3 +41,4 @@ class Solution:
                         heapq.heappush(max_heap, (-new_safe, nr, nc))
 
         return -1  # In case there's no valid path
+    
