@@ -4,7 +4,7 @@ Welcome to the "LeetCode Tasks" repository! This collection is a curated set of 
 
 ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
 
-## What's Inside?
+## What's Inside? 
 
 - **Structured Approach:** Problems are categorized based on common themes such as arrays, strings, linked lists, trees, dynamic programming, and more. This organization allows you to focus on specific topics or explore a broad range of algorithmic challenges.
 
