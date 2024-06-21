@@ -13,7 +13,7 @@ Welcome to the "LeetCode Tasks" repository! This collection is a curated set of 
 - **Growing Collection:** Regular updates will be made to include solutions for new LeetCode problems. Contributions from the community are encouraged—feel free to submit your own solutions through pull requests.
 
 ## How to Use?
-
+ 
 1. Clone the repository to your local machine:
 
     ```bash
